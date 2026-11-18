@@ -89,6 +89,16 @@ While working on this project, I got practical experience with CNN model develop
 
 It also helped me understand how machine learning models can be used to solve practical problems in agriculture.
 
+## Application Output
+
+The application allows users to upload a plant leaf image and view the predicted disease along with its confidence score.
+
+### Prediction Result
+
+![Plant Disease Detection Result](prediction_result.png)
+
+**Example Prediction:** Orange – Citrus Greening
+
 ## Future Improvements
 
 - Add more plant disease categories.
